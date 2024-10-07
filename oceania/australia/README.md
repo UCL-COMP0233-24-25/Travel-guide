@@ -1,3 +1,3 @@
 # Australia
 
-- [SYDNEY](./oceania/australia/README.md)
+- [SYDNEY](./oceania/australia/sydney.md)

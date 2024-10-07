@@ -1,2 +1,2 @@
 # OCEANIA
-- [AUSTRALIA](./oceania/README.md)
+- [AUSTRALIA](./oceania/australia/README.md)
