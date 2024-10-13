@@ -1,3 +1,0 @@
-# EUROPE
- - [Hungary](./hungary.md)
- 
