@@ -1,2 +1,3 @@
 # ASIA
-- [ASIA](./asia/Japan.md)
+the link to Japan
+- [Japan](./Japan.md)
