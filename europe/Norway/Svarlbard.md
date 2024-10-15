@@ -1,0 +1,3 @@
+Svarlbard is an Norwegian island in the far North Atlantic, within the Arctic circle. There is very few settlements and the island is incredibly beautiful. The island experience Arctic winters with heavy snowfall for much of the year (A lot more than England). There are even Polar Bears roaming the wilderness so you have to be on guard, and guarded, whenever leaving the safe zones. The island is the location of the 'Global Seed Vault', which stores gene banks for the world's crop diversity providing security for crop species in case of extinction or other issues.
+
+More Info at [wikivoyage](https://en.wikivoyage.org/wiki/Svalbard) and [wikipedia](https://en.wikipedia.org/wiki/Svalbard)
