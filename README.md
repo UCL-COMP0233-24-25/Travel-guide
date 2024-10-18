@@ -5,4 +5,3 @@
  - [NORTH_AMERICA](./north_america/README.md)
  - [OCEANIA](./oceania/README.md)
  - [SOUTH_AMERICA](./south_america/README.md)
- - [Japan](./Japan.md)
