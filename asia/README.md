@@ -7,3 +7,4 @@ Explore the diverse regions of Asia. Click below to explore different countries.
 - [Thailand](./thailand/README.md)
 - [Turkey](./turkey/README.md)
 - [Vietnam](./Vietnam/README.md)
+- [Japan](./Japan.md)
